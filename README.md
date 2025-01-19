@@ -3,7 +3,7 @@
 The RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early morning hours of 15 April 1912, after it collided with an iceberg during its maiden voyage from Southampton to New York City.
 
 # Project Overview
-There were an estimated 891 passengers and crew aboard the ship, and more than 500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. 
+There were an estimated 890 passengers and crew aboard the ship, and more than 500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. 
 
 The RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. The Titanic was built by the Harland and Wolff shipyard in Belfast. Thomas Andrews, her architect, died in the disaster.
 
